@@ -1,16 +1,15 @@
 # Site settings
-title: Pudhina
+title: "七夕"的博客
 description: >
-  A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
+  这是一个七夕直播创建的博客
 
-baseurl: "/Pudhina" # the subpath of your site, e.g. /blog/
-url: "https://knhash.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://fei3721.github.io" # the base hostname & protocol for your site
 
 author:
-  fullname: Pudhina
-  github: github
-  linkedin: linkedin
-  email: example@email.com
+  fullname: fei3721
+  github: fei3721.github.io
+  email: 398818207@qq.com
 
 
 # Syntax highlighting
