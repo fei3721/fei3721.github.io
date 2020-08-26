@@ -1,7 +1,7 @@
 # Site settings
-title: "七夕"的博客
+title: "牛郎&织女"的博客
 description: >
-  这是一个七夕直播创建的博客
+  这是一个CSDN直播创建的博客。
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://fei3721.github.io" # the base hostname & protocol for your site
